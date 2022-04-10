@@ -4,6 +4,9 @@
     <img align="center" width=50 src=https://user-images.githubusercontent.com/98301106/162602317-33013f21-8560-431f-baf9-7c65805e92d3.png>
 </h1>
 
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
+
 **A Snake game made in python using pygame.**
 
 The code is clean and can be easily edited
